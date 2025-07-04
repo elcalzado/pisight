@@ -1,0 +1,15 @@
+--- a/webcampi/package/uvc-gadget/0002-script-change-product-name.patch
++++ b/webcampi/package/uvc-gadget/0002-script-change-product-name.patch
+@@ -3,9 +3,10 @@
+ @@ -10,7 +10,7 @@
+  PID="0xdead"
+  SERIAL="0123456789"
+- MANUF=$(hostname)
++-MANUF=$(hostname)
+++MANUF="Apple Pi"
+ -PRODUCT="UVC Gadget"
+-+PRODUCT="Webcam Pi"
+++PRODUCT="PiSight"
+  BOARD=$(strings /proc/device-tree/model)
+  UDC=`ls /sys/class/udc` # will identify the 'first' UDC
+  
