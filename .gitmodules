@@ -1,0 +1,3 @@
+[submodule "webcampi"]
+	path = webcampi
+	url = https://github.com/elcalzado/webcampi
