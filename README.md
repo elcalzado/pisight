@@ -28,7 +28,7 @@ This is an adaptation of [Webcam Pi](https://www.github.com/elcalzado/webcampi) 
 | Adafruit Sequin LED          | Optional Apple logo back‑light      | [Adafruit](https://www.adafruit.com/product/1758)         |
 | Any soldering iron           | Wire soldering needed               | [Amazon](https://www.amazon.com/s?k=soldering+iron)       |
 | Any drill with a 5/64 in bit | For swivel slot hole                | [Amazon](https://www.amazon.com/s?k=drill)                |
-| 3D printed parts             | Internal frame + mounting adapters  | [Printables]()                                            |
+| 3D printed parts             | Internal frame + mounting adapters  | [Printables](https://www.printables.com/model/1427221-pisight)                                            |
 
 ## Features
 
