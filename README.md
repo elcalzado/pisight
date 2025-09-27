@@ -2,7 +2,7 @@
 
 This is an adaptation of [Webcam Pi](https://www.github.com/elcalzado/webcampi) intended to be used alongside some components from the Apple iSight webcam. If you're interested in building this, follow this documentation and my YouTube video!
 
-[![YouTube Video](https://img.youtube.com/vi/NOTREADY/maxresdefault.jpg)](https://www.youtube.com/watch?v=NOTREADY)
+[![YouTube Video](https://img.youtube.com/vi/X41YuiVAM/maxresdefault.jpg)](https://www.youtube.com/watch?v=X41YuiVAM)
 
 ## Table of Contents
 
